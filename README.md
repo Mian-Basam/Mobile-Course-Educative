@@ -5,7 +5,7 @@ An internal Next.js tool for generating persona-driven blogs, newsletters, cours
 ## Clone the repo
 
 ```bash
-git clone https://github.com/yasir-educative/educative-ai-content-studio.git
+git clone
 cd educative-ai-content-studio
 ```
 
