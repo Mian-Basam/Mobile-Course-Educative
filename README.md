@@ -5,8 +5,8 @@ An internal Next.js tool for generating persona-driven blogs, newsletters, cours
 ## Clone the repo
 
 ```bash
-git clone
-cd educative-ai-content-studio
+git clone https://github.com/Mian-Basam/Mobile-Course-Educative.git
+cd Mobile-Course-Educative
 ```
 
 ## Run locally
